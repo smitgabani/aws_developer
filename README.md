@@ -32,3 +32,5 @@
 - [Build CI/CD pipeline to deploy on ECS Fargate using CDK](https://catalog.us-east-1.prod.workshops.aws/workshops/7ff7388e-8bf9-408e-9466-bfb3619e1f96/en-US)
 
 [7 Free AWS Practice Labs and AWS Workshops resources](https://medium.com/towards-cloud-computing/7-free-aws-practice-labs-and-aws-workshops-resources-d0a861f05d3)
+
+#### Tools:
